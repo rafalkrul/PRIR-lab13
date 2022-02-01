@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643709869 source:c:\users\rw\desktop\openmp\prir-13\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<omp.h>
+
